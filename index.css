@@ -6,9 +6,7 @@ text-align: center;
 
 }
 
-div{
 
-}
 a{
 
   font-family: 'Roboto Mono', monospace;
@@ -26,7 +24,7 @@ a:hover{
 
 .foot{
   color: #2D31FA;
-  font-size: 20px;
+  font-size: 21px;
   margin-bottom: 10px;
 }
 
